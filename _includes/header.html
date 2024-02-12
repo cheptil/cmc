@@ -1,0 +1,42 @@
+<header id="masthead" class="site-header">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffc40d">
+    <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-D3P75KKDZ9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-D3P75KKDZ9');
+    </script>
+
+    {% assign image_is_not_empty = include.image | is_not_empty %}
+    {% assign background_img_is_not_empty = include.site.header.background_img | is_not_empty %}
+    {% if image_is_not_empty %}
+        <div id="header-bg" class="site-header-bg" style="background-image:url('{{ include.image | relative_url }}')"></div>
+        {% elsif background_img_is_not_empty %}
+        <div id="header-bg" class="site-header-bg"
+             style="background-image:url('{{ include.site.header.background_img | relative_url }}')"></div>
+    {% endif %}
+    <div class="site-header-scroll">
+        <div class="site-header-inside">
+            <div class="site-header-vertical">
+                {% include branding.html %}
+                {% include navigation.html %}
+            </div><!-- .site-header-vertical -->
+        </div><!-- .site-header-inside -->
+    </div><!-- .site-header-scroll -->
+</header><!-- .site-header -->
