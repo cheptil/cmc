@@ -13,6 +13,24 @@ header:
   tagline: Сообщество студентов и выпускников ВМК МГУ
   background_img: images/main.png
 
+  has_nav: true
+  nav_links:
+    - label: Главная
+      url: /
+      style: link
+    - label: Отзывы выпускников
+      url: /reviews
+      style: link
+    - label: Рейтинг кафедр
+      url: https://cmc2rise.msut.me
+      style: link
+    - label: Курс ИИвИИ
+      url: /aiinir
+      style: link
+    - label: Зарплатный опрос
+      url: /#salary
+      style: link
+
   has_social: true
   social_links:
     - label: Telegram
