@@ -15,7 +15,7 @@ header:
 
   has_nav: true
   nav_links:
-    - label: Главная
+    - label: Главная страница
       url: /
       style: link
     - label: Отзывы выпускников
@@ -38,7 +38,6 @@ header:
       style: icon
       icon_class: fa-telegram
       new_window: true
-
 
 footer:
   content: '&copy; CMC MSU Hub'
