@@ -182,55 +182,55 @@ layout: page
 
 #### <a id="24lection8">22 ноября 2024 — Ozon — Ван Хачатрян</a>
 
-> [![](24_8.jpg)(https://youtu.be/AZVka4Ci4zU)
+> [![](24_8.jpg)](https://youtu.be/AZVka4Ci4zU)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lectionasft">24 ноября 2024 — Разбор решения первого задания — Никита Синавчиан</a>
 
-> [![](24_asft.jpg)(https://youtu.be/64VF4t8SflA)
+> [![](24_asft.jpg)](https://youtu.be/64VF4t8SflA)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lection9">29 ноября 2024 — ИИИ — Ксения Соловьёва</a>
 
-> [![](24_9.jpg)(https://youtu.be/9FpenubcpJw)
+> [![](24_9.jpg)](https://youtu.be/9FpenubcpJw)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lectionsft">1 декабря 2024 — Решение первого задания — Данил Черкашин</a>
 
-> [![](24_sft.jpg)(https://youtu.be/b26v0h5nEYc)
+> [![](24_sft.jpg)](https://youtu.be/b26v0h5nEYc)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lection10">6 декабря 2024 — МТС — Анна Щеникова</a>
 
-> [![](24_10.jpg)(https://youtu.be/pipRRvnqZ4A)
+> [![](24_10.jpg)](https://youtu.be/pipRRvnqZ4A)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lection11_1">13 декабря 2024 — Студенческий стартап — Илья Григорян</a>
 
-> [![](24_11_1.jpg)(https://youtu.be/R7Fmp_6ewLY)
+> [![](24_11_1.jpg)](https://youtu.be/R7Fmp_6ewLY)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lection11_2">13 декабря 2024 — Старт — Алексей Колосов</a>
 
-> [![](24_11_2.jpg)(https://youtu.be/AOTY_OMs8dA)
+> [![](24_11_2.jpg)](https://youtu.be/AOTY_OMs8dA)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lection12_1">20 декабря 2024 — Студенческий стартап — Александра Петрова</a>
 
-> [![](24_12_1.jpg)(https://youtu.be/veDPJbFP5cc)
+> [![](24_12_1.jpg)](https://youtu.be/veDPJbFP5cc)
 
 [↑ Наверх](#24lections)
 
 #### <a id="24lection12_2">20 декабря 2024 — Студенческий стартап — Алексей Стрельников</a>
 
-> [![](24_12_2.jpg)(https://youtu.be/6Ha819Lcrg8)
+> [![](24_12_2.jpg)](https://youtu.be/6Ha819Lcrg8)
 
 [↑ Наверх](#24lections)
 
