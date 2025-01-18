@@ -186,6 +186,8 @@ LLM-based Multi-Agents Systems<br><br>
 
 > [![](24_mc.jpg)](https://youtu.be/LDqyVBirNIc)
 
+Мастер-класс по настройке окружения для первого задания<br><br>
+
 [↑ Наверх](#24lections)
 
 #### <a id="24lection6">1 ноября 2024 — Сколтех — Александр Меньщиков</a>
@@ -206,6 +208,8 @@ LLM-based Multi-Agents Systems<br><br>
 #### <a id="24lectionaft">8 ноября 2024 — Разбор первого задания — Алексей Колосов</a>
 
 > [![](24_aft.jpg)](https://youtu.be/LMbyGar0GVU)
+
+Разбор первого задания<br><br>
 
 [↑ Наверх](#24lections)
 
@@ -236,6 +240,8 @@ LLM-based Multi-Agents Systems<br><br>
 
 > [![](24_asft.jpg)](https://youtu.be/64VF4t8SflA)
 
+Разбор авторского решения первого задания<br><br>
+
 [↑ Наверх](#24lections)
 
 #### <a id="24lection9">29 ноября 2024 — ИИИ — Ксения Соловьёва</a>
@@ -252,6 +258,8 @@ LLM-based Multi-Agents Systems<br><br>
 #### <a id="24lectionsft">1 декабря 2024 — Решение первого задания — Данил Черкашин</a>
 
 > [![](24_sft.jpg)](https://youtu.be/b26v0h5nEYc)
+
+Авторское решение первого задания<br><br>
 
 [↑ Наверх](#24lections)
 
