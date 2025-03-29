@@ -28,7 +28,7 @@ header:
       url: /aiinir
       style: link
     - label: Зарплатный опрос
-      url: /#salary
+      url: /salary
       style: link
 
   has_social: true
