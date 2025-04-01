@@ -18,7 +18,11 @@ layout: page
 
 ### 📝 Результаты опроса<br><br>
 
-Первые результаты уже 1 апреля 🤠<br><br>
+![](images/first_potok.png)
+
+![](images/second_potok.png)
+
+![](images/top_all_potoks.png)
 
 ---
 
