@@ -22,7 +22,11 @@ layout: page
 
 ![](images/second_potok.png)
 
+![](images/third_potok.png)
+
 ![](images/top_all_potoks.png)
+
+На текущий момент (01.04.2025) обработаны результаты опроса за 2022, 2023 и 2024 года
 
 ---
 
