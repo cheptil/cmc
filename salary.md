@@ -26,6 +26,12 @@ layout: page
 
 ![](images/top_all_potoks.png)
 
+![](images/avg_all_potoks.png)
+
+![](images/stats_datapoints.png)
+
+![](images/stats_means.png)
+
 На текущий момент (01.04.2025) обработаны результаты опроса за 2022, 2023 и 2024 года
 
 ---
