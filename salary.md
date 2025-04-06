@@ -18,7 +18,7 @@ layout: page
 
 ### 🙆‍♂️ Авторская зарплатная траектория<br><br>
 
-[![Гулдан](images/poster_guldan.png)](images/guldan.jpg)
+[![Гулдан](images/poster_guldan.png)](https://cmc.msut.me/images/guldan.jpg)
 
 ### 📝 Результаты опроса<br><br>
 
