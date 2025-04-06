@@ -16,6 +16,10 @@ layout: page
 
 **Сервис для сбора данных**: [salary.msut.me](https://salary.msut.me)<br><br>
 
+### 🙆‍♂️ Авторская зарплатная траектория<br><br>
+
+[![Гулдан](images/poster_guldan.png)](images/guldan.jpg)
+
 ### 📝 Результаты опроса<br><br>
 
 ![](images/first_potok.png)
